@@ -30,3 +30,7 @@
 	path = ArrayUtil.jl
 	url = https://github.com/JKRT/ArrayUtil.jl
 	branch = master
+[submodule "OMCompiler.jl"]
+	path = OMCompiler.jl
+	url = https://github.com/JKRT/OMCompiler.jl
+	branch = master
