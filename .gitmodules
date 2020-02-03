@@ -1,0 +1,32 @@
+[submodule "ImmutableList.jl"]
+	path = ImmutableList.jl
+	url = https://github.com/OpenModelica/ImmutableList.jl
+	branch = master
+[submodule "MetaModelica.jl"]
+	path = MetaModelica.jl
+	url = https://github.com/OpenModelica/MetaModelica.jl
+	branch = master
+[submodule "DoubleEnded.jl"]
+	path = DoubleEnded.jl
+	url = https://github.com/OpenModelica/DoubleEnded.jl
+	branch = master
+[submodule "SCode.jl"]
+	path = SCode.jl
+	url = https://github.com/OpenModelica/SCode.jl
+	branch = master
+[submodule "Mutable.jl"]
+	path = Mutable.jl
+	url = https://github.com/JKRT/Mutable.jl
+	branch = master
+[submodule "ListUtil.jl"]
+	path = ListUtil.jl
+	url = https://github.com/JKRT/ListUtil.jl
+	branch = master
+[submodule "OpenModelicaParser.jl"]
+	path = OpenModelicaParser.jl
+	url = https://github.com/adrpo/OpenModelicaParser.jl
+	branch = master
+[submodule "ArrayUtil.jl"]
+	path = ArrayUtil.jl
+	url = https://github.com/JKRT/ArrayUtil.jl
+	branch = master
