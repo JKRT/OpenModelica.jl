@@ -37,3 +37,6 @@
 [submodule "OMBackend.jl"]
 	path = OMBackend.jl
 	url = https://github.com/JKRT/OMBackend.jl.git
+[submodule "Absyn.jl"]
+	path = Absyn.jl
+	url = https://github.com/OpenModelica/Absyn.jl.git
