@@ -34,3 +34,6 @@
 	path = OMCompiler.jl
 	url = https://github.com/JKRT/OMCompiler.jl
 	branch = master
+[submodule "OMBackend.jl"]
+	path = OMBackend.jl
+	url = https://github.com/JKRT/OMBackend.jl.git
